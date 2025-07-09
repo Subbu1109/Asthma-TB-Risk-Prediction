@@ -1,20 +1,20 @@
 # 🫁 Asthma and TB Risk Prediction 
 
-## 📜 Description
-This project builds an **AI-powered screening tool** to predict **asthma** and **tuberculosis (TB)** risk using **cough sound spectrograms** and **clinical features**. It includes:
+## Description
+This project builds an **AI-powered screening tool** to predict **asthma** and **tuberculosis (TB)** risk using **cough sound spectrograms** and **clinical features**.
 
 ---
 
-## 🎯 Purpose
+## Purpose
 Respiratory diseases like **asthma** and **Tuberculosis** cause serious health challenges worldwide, especially in low-resource settings. Manual diagnosis can be slow, subjective, or inaccessible. This project aims to:
-✅ Automate preliminary screening  
-✅ Combine cough audio + clinical data for better accuracy  
-✅ Provide an easy-to-use web interface  
-✅ Demonstrate a complete AI workflow from training to frontend
+1. Automate preliminary screening  
+2. Combine cough audio + clinical data for better accuracy  
+3. Provide an easy-to-use web interface  
+4. Demonstrate a complete AI workflow from training to frontend
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```bash
 TB_PROJ/
