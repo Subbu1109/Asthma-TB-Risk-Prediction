@@ -1,0 +1,29 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Model file
+disease_predictor.h5
+
+# Excel data files
+train.xlsx
+test.xlsx
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Frontend environment file
+frontend/.env
+
+# Lock file
+frontend/package-lock.json
+
+# === System / Editor ===
+.DS_Store
+Thumbs.db
